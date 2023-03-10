@@ -1,0 +1,16 @@
+# Python-related
+*.pyc
+*.pyo
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Streamlit-related
+.cache/
+.streamlit/
+
+# env-related
+.env
