@@ -10,7 +10,6 @@ build/
 
 # Streamlit-related
 .cache/
-.streamlit/
 
 # env-related
 .env
